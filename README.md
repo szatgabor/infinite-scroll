@@ -1,4 +1,4 @@
-#Infinite Scroll App
+# Infinite Scroll App
 
 This is a Picture scroll app that is using the Unsplash API.  
 Source: https://unsplash.com/developers
